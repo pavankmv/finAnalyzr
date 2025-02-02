@@ -1,0 +1,32 @@
+{
+  "name": "finanalyzr",
+  "version": "1.0.0-beta.0",
+  "description": "FinAnalyzr automatically categorizes your bank statement transactions, providing clear insights and visual reports to help you track and manage your spending effortlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankmv/finAnalyzr.git"
+  },
+  "keywords": [
+    "finAnalyzr",
+    "finance",
+    "expense",
+    "analyser",
+    "bank",
+    "statement"
+  ],
+  "author": "pavankmv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavankmv/finAnalyzr/issues"
+  },
+  "homepage": "https://github.com/pavankmv/finAnalyzr#readme",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
